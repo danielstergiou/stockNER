@@ -1,0 +1,8 @@
+spacy>=3.5.0,<3.6.0
+en-core-web-trf==3.5.0
+python-dotenv>=1.0.0
+labelbox>=3.34.0,<4.0.0
+
+# pip install --upgrade pip
+# pip install -r requirements.txt
+# python -m spacy download en_core_web_trf

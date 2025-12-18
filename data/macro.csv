@@ -1,0 +1,22 @@
+Name,OtherNames,MacroType,Category
+Food Index,food index|food indexes|food price|food prices,indicator,Market Sentiment
+Shelter Index,shelter index|index for shelter|shelter price|shelter prices|housing price|housing prices,indicator,Market Sentiment
+Inflation,CPI|consumer price index|inflation rate|inflation rates,indicator,Economic Indicator
+Unemployment,jobless rate|unemployment rate,indicator,Economic Indicator
+GDP,gdp|gross domestic product,indicator,Economic Indicator
+Interest Rate,interest rate|fed funds rate|policy rate,indicator,Economic Indicator
+Bear Market,bear market|bearish market|bear run|bear runs|market correction,indicator,Market Condition
+Bull Market,bull market|bullish market|bull run|bull runs,indicator,Market Condition
+Energy Index,energy index|energy indexes|energy prices,indicator,Market Sentiment
+Labor Market,labor market|labor|job openings|job seekers|jobs, indicator, Economic Indicator
+
+War,war|conflict|invasion|battle|hostilities,event,Geopolitical
+War In Ukraine,war in ukraine|ukraine war|russian invasion of ukraine,event,Geopolitical
+Pandemic,pandemic|covid|covid19|covid19 pandemic|coronavirus|epidemic,event,Health  
+Lockdown,lockdown|lockdowns,event,Policy  
+Sanctions,sanctions|economic sanctions,event,Geopolitical  
+Trade War,trade war|trade tariffs|tariff war,event,Geopolitical  
+Quantitative Easing,quantitative easing|qe,event,Policy  
+Quantitative Tightening,quantitative tightening|qt|quantitative tightenings,event,Policy  
+Recession,recession|economic downturn,event,Economic Indicator 
+Short Squeeze,short squeeze|squeeze,event,Market Condition

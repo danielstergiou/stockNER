@@ -1,0 +1,17 @@
+Name,OtherName,Category,Subcategory
+Gold,,Metal,Precious Metal
+Silver,,Metal,Precious Metal
+Uranium,,Metal,Precious Metal
+Lithium,,Metal,Precious Metal
+Crude Oil,WTI,Energy,Oil
+Oil,oil,Energy,Oil
+Natural Gas,Gas|gas,Energy,Gas
+Nuclear Energy,Nuclear|nuclear,Energy,Nuclear
+Coal,,Energy,Coal
+Corn,,Soft Commodity,Grain
+Wheat,,Soft Commodity,Grain
+Eggs,egg,Soft Commodity
+Soybeans,Beans,Soft Commodity,Grain
+US Treasury Bond,T-Bond,Fixed Income,Government Bond
+Cannabis,Weed|Marijuana|Cannabiz,Soft Commodity
+Pork Belly,,Soft Commodity

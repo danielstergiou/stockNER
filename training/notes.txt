@@ -1,0 +1,3 @@
+python -m spacy init config ./training/config_trf.cfg --lang en --pipeline ner --optimize accuracy --base-model en_core_web_trf --force
+
+python -m spacy train ./training/config_trf.cfg --output ./models/stockNER_model_trf --paths.train ./training/train.spacy --paths.dev ./training/train.spacy

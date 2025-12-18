@@ -1,0 +1,672 @@
+0
+"📈 Rate My Portfolio Weekly Thread | August 04, 2025 Looking for feedback on your portfolio? This is the place to share, rate, and discuss ETF portfolios.
+
+To facilitate the discussion, please provide some context for your portfolio selection, for example, investment goal, timeframe, risk tolerance, target asset allocation, etc.
+
+A big thank you to the many [r/ETFs](https://new.reddit.com/r/ETFs/) investors who take the time to provide others with feedback!"
+"In April I almost sold the dip. Now I'm 12% up. Around the start of April, I threw all my savings into an ETF. 18 hours later the Trump Tariffs begin and the market falls. I was down thousands of dollars but was planning to hold. Then Saturday came around and reddit was being flooded with posts of how the economy was officially over. The next day I put in a sell order at a significant loss (Market was closed thankfully).
+
+After a lot of thinking that night, I cancelled the sell order and wrote a long message in my notepad to read in case the market took a turn again. The note was to remind me to not sell, and to keep DCA'ing. That I had already weighed in on the risks prior to investing, **when I was in a more rational headspace.** I kept DCA'ing and never needed to look at that note again, and I'm up 12% now.
+
+I'm not writing this to brag, but to caution. Because after last weeks dip, this subreddit started to look eerily similar to April. Mind you it was a 2% dip. That's like the price of an iPhone going from $1250 to $1225. You would laugh if a store offered that as a discount and yet some of the people on this sub could be perfectly described by this one image:
+
+https://preview.redd.it/q6hirpckh6hf1.png?width=220&format=png&auto=webp&s=247d5f200e34d44f40353871657296e5b43ab0e2
+
+Investing in ETFs means you've made a prediction that the market will be higher in 10+ years time. Trump will not be alive. Your ETF might be worth tenfold. Or the asteroid might hit us and we'll all be dead. DCA and tune out the noise."
+"is QQQI the best passive income ETF? honestly it seems that way
+
+14.56% per year yield, paid as monthly dividends so 1.21% per month in passive income
+
+since inception the etf is up 4.90% in value, the share price just does not get eroded over time, it actually ends up going up a bit which is fantastic
+
+also the way the yields are taxed apparently allows you to keep more of the income
+
+this looks like such a good passive income generator. get $300k and just put it on this, generate $3.6k a month passively"
+"India May Face 50%+ Tariffs. New Trade War to Begin. Trump Argues that India is funding deaths in Ukraine and therefore raising taxes on them. There are multiple sensitive areas that could be impacted if Tariffs go very high on India, like cheap medicines could get expensive.  
+India shows no intention to bow down in any way and make a deal with USA, i.e., continuing to make low-cost Russian oil purchases to keep inflation in check. No way things can get resolved soon. Let's see how to play out. How to play this news and suggestions?"
+"Is VT the best “one ETF to rule them all,” or too broad to be efficient? I’ve been thinking about simplifying my portfolio and holding just VT (Vanguard Total World Stock ETF) long term. On paper, it seems perfect: global diversification, automatic rebalancing, and low fees. One ETF and done.
+
+But I’m wondering… does VT include too much ""dead weight""?
+Developed markets with low growth, small positions in frontier/emerging markets that barely move the needle.
+
+Curious to hear what others think — anyone here gone all-in on VT? Any regrets? Or do you prefer slicing it up for more control?
+
+PS: I hold VT and I'm based in EU"
+"Does it make sense pairing a growth fund with a momentum fund? Something like QQQ and SPMO together? QQQ follows the top 100 US companies while SPMO follows the S&P 500 Momentum Index. 
+
+I was thinking something like 
+
+55% VTI
+
+15% QQQ
+
+10% SPMO
+
+20% VXUS
+
+Is is too much unnecessary overlap? I want my core fund to be VTI, but I want to tilt to the tech heavy NASDAQ 100 and momentum stocks in the S&P500. There is no finance sector in QQQ while SPMO has 20% in finance. There are 13 holdings between the two funds that overlap. Any thoughts?"
+"Index Funds for future Do we think that the Stock Market will truly continue to grow for the next 40+ years? Are we true to expect 7% rates annually (on average) from the S&P 500? I truly just wonder the true likelihood that it will simply continue to grow. Almost everything stops growing after a while, what makes we sure that the market will continue to go up? What will happen to VOO in the next 40 years?"
+"QGRO equivalent? Really happy with my qgro position, but I’ve been looking for a fund that’s close to it but with a bit more liquidity and volume.
+
+Any suggestions?"
+What would you suggest I do differently? I am 20 and have no expenses apart from fuel and yearly-paid insurance. All in AUD. I also have $2500 cash account.
+"SPDR MSCI ACWI vs Vanguard FTSE All-World (via InvestEngine), which would you go for? Hi all. I’m a 22 year old who has, over the past few years, been taking control of my finances to set myself up for the future.
+
+After thorough research on platforms, I’m planning to invest long-term through InvestEngine, using a stocks and shares ISA and SIPP. Initial contribution of £300/month (£150 each) and increasing this over time (every year by £50-£100 in each until happy).
+
+The main two I’ve been looking at are SPDR MSCI ACWI (SSAC, 0.12% TER,  IE00B44Z5B48) and Vanguard FTSE All-World (VWRP, 0.22% TER, IE00BK5BQT80). I’ve also been considering Invesco FTSE All-World (FWRG, TER 0.15%, IE000716YHJ7). I’m also open to ANY suggestions. 
+
+My goal is simple long-term growth, 100% stocks, accumulating, global diversification. 
+
+I understand VWRP has more holdings (3,600 vs 2,200) and includes more mid-caps than SSAC. Though I know mid-caps have historically outperformed, I’m not sure how significant that is here, since they only make up a portion of the ETF.
+
+In turn, I’d end up with a slightly more diversified portfolio with VWRP, but not sure if that’s enough to justify the higher 0.22%? 
+
+I’m leaning towards SSAC due to the lower fee, but just wanted to run it through this sub before I do. It just seems as if SPDR isn’t on the radar, wondering if I’m missing something? 
+
+I may have made a few mistakes in this post, so please let me know if anything I’ve mentioned isn’t correct! Thanks in advance, looking forward to hearing your thoughts."
+Which of these ETFs would you invest in? I have about $3k in my HSA that I want to invest. These are available for me. How should I go about splitting the $3k up?
+"Does QQQI break the 4% rule? Since the covered called funds like QQQI pay over 10%, a smaller amount of capital can help one meet their income needs. By taking the distributions in cash if those distributions exceed the “4% rule“ but still leaves you at 2/3 of your portfolio for growth, emergencies, etc. is this a feasible strategy or do you run the risk of spending too much money and getting into trouble down the road? I’m 34 months from being fully retired."
+"Rating my 401k Funds These are through an employer 401k. I am getting solid 20% annual returns in my 401k but just learned about fund overlap. I looked these up and they don’t appear to overlap. I just shifted over to the Nuveen and Fidelity Advisor as they are newer funds offered. These are the top performing funds I have access to. They are higher risk but overall they keep growing. Other than balancing out the portfolio between these, am I doing the right thing just running with these 4 for now? I’m 44M so I’m way behind and just increased my withholdings to 10% and another 5% into a Roth. 14% would max my 401k so I’m working my way there. 5% does max out my Roth contributions."
+New portfolio - Finding equivalent ETFs that you can invest in within a UK ISA I have settled on this as my new portfolio with allocations shown. However I am struggling in finding the best alternatives that I am able to invest in as I live in the UK and will be investing within an ISA. Is anyone able to help out and suggest as close to as exact replacement for each of the ETFs listed above???
+"International Comeback? Yes, this will be a speculation type post. Mainly wanted to ask what people suspect is most likely to happen between US and ex-US equity markets over the next 10-20 years. These past 15 years have been dominated by the US market due mostly to shifting price multiples, which have adjusted to account for new earnings growth expectations. If we assume that adjustment has been more/less completed, then we should soon see an equalization in total returns between US and ex-US going forward
+
+Also, wondering why ex-US has underperformed for the past 30 years. How much of that underperformance can be attributable to the Japan bubble of 1990? I think Japan's market accounted for like 45% of the world's market cap at the peak, so probably like 70-80% of all ex-US equities at the time. So with most ex-US equity markets today starting with lower price multiples, there should be a lot more upside potential
+
+Lemme know if you disagree with my bullish international sentiment. Will respond only to those who have solid, insightful comments..."
+"Would greatly appreciate some advice Hi everyone! I am new to investing and I would love some advice on how to start! Generally looking to try out the conventional method of 60:40 Equity to Bond ratio for ETFs.
+
+1) These are some of the ETFs/Indexes/Funds I am currently tracking. Would you think these are great candidates?
+
+2) I’m not too sure when I should start cashing in as the price seems to be growing upwards constantly and I believe I should avoid buying it on a high? However, the chances of it dipping seem rare as well. Would love some insight!
+
+Thank you!"
+"Is SCHD a good starting point? Im looking to get into ETFs. I have a maxed out 401K, I don't really have a lot of money left over monthly, so the cheaper price point is definitely appealing to me. I am looking for something to grow/reinvest the dividends until retirement, which would be roughly 20 years. Is this a good starting point?"
+"ETF Portfolio Good morning everyone, how do you see these two ETFs?? Ishares core MSCI world and Amundi Physical gold ?? I'm about to open a Pac and I'm oriented towards 70-30% on these two funds... any advice???"
+Is it a good idea to invest  like 50 grand in an s&p etf index fund? Title.
+"VYMI vs LVHI, which is the superior international position? Both VYMI and LVHI have outperformed VXUS over their lifetimes while also providing simarly high dividends but now my question is which of the two is better overall?
+
+VYMI has more companies (1500+) but is highly concentrated into one sector (40% in finance) due to no limiters. However, it does also allow for emerging markets which LVHI does not.
+
+LVHI on the otherhand has outperformed VYMI and VXUS while having a significantly lower drawdown and standard deviation. It does not allow for extreme concentrations into any one sector or country either too. However with only 180 or so companies and using the US dollar, diversification is hindered."
+"Watched Cathie Wood on The Diary of a CEO – what’s the general view on ARK funds? I just watched the episode featuring Cathie Wood and found her take on innovation and disruptive tech really interesting. She talked a lot about ARK’s investment funds, like ARKK and ARKG, and I’m curious how these are viewed by the wider investing community.
+
+Do people recommend them? How have they performed, and what are the main concerns or criticisms around their strategy?"
+Advice ?
+"Dividend taxes on etf Is the dividend yield mentioned on a world etf eg ftse all world etf,, net of witholding taxes? 
+Like VWRA, is the dividend net of witholding taxes?
+
+Can anybody who owns FTSE all world etf, or MSCI world index etf, explain dividend distribution and taxes?"
+"Is this too complicated? I have 75k cash as a 25 year old and I am planning to DCA over the next 6 months with the following distribution
+
+VOO 25%
+
+VXUS 25%
+
+SPMO 15%
+
+XMHQ 15%
+
+AVUV 15%
+
+IBIT 5%
+
+
+
+ Is this over complicating things compared to just buying VTI?
+Should I reduce my mid cap or large cap to increase AVUV? Over how long of a period should I DCAv"
+"How are Double call etfs like - trying to become financial indepdent just need 2000 usd per month, so is investing in them for 5 years every month is a good idea? explain"
+"Roth IRA Allocation Advice – Stick with DGRO & VYM or Add More? Hey everyone,
+
+I’m 28 and just getting serious about investing a little late, but better late than never, right?
+
+Right now, I have a Roth IRA where I’m holding DGRO and VYM. My current strategy has been to just consistently contribute and build positions in those two ETFs.
+
+I like the dividend growth focus of DGRO and the high yield exposure of VYM, but I’ve been wondering should I keep it simple and just continue dollar-cost averaging into those two? Or would it be smart to diversify a bit more and add another ETF like SPYI, or maybe something else you all suggest?
+
+My goal is long-term growth with dividend income in retirement.
+
+Appreciate any input. Thanks in advance!"
+"Looking for UCITS ETFs similar to Vanguard LifeStrategy or Target Date funds (available in Europe) Hi everyone,
+
+I’m based in Europe and I’m looking for UCITS-compliant ETFs that resemble either:
+	•	Vanguard LifeStrategy funds (e.g. static diversified portfolios like 60/40 or 80/20 equity/bonds), or
+	•	Target Date / Glide Path funds like BlackRock LifePath or Vanguard Target Retirement, which gradually become more conservative over time.
+
+I use a broker like IBKR. and I’m specifically interested in ETFs available to EU residents, ideally listed on European exchanges (Xetra, LSE, Borsa Italiana, etc).
+
+Any recommendations for:
+	•	Static balanced UCITS ETFs (e.g. all-in-one globally diversified portfolios)?
+	•	Glide-path UCITS ETFs (i.e. asset allocation shifts with time)?
+
+Thanks in advance!"
+"New to all of this is have 90,000 and want to invest in my future what etfs should I buy. Looking to set up a nice retirement plan just wondering what etfs I should get and if I should just go all in on one or split it between multiple."
+"Identical ETFs? Not Loss Harvesting I'm very curious about basically identical ETFs totally not for tax loss  harvesting purposes at all 
+
+So far I know SPY, VOO, and IVV are pretty interchangable 500 index ETFs is there any 500 index ones you would throw into the list?
+
+There's also QQQ and VGT for Nasdaq but I think there is some different between those two, there's QQQ and QQQM
+
+Anyone have ideas for essentially identical ETFs that someone could theoretically selling for a loss and immediately put into another fund that is essentially the same?"
+Why does everybody buy into the vanguard etfs over the Schwabs and etc… Just a curious question
+"Noob at investing seeking Input from redditors on ETF I started investing like 4 years ago and invested everything 25/25/50 into VFV/XEQT/HCAL. 
+
+I have no idea what I'm doing. Could someone please explain what they would do, but more importantly why you would do it?"
+"Current strategy, any notes? I just hit 30, so I recently bit the bullet and opened up my Roth IRA. My overall goal is simply to have a decent sum of money for retirement, but also to be able to have resources there when I need them later (like when I eventually buy a house). 
+
+Is this a sound strategy? I've seen so many investors like me go all in on VOO or similar EFT's, and I'm curious if that is a cleaner and more effective strategy."
+"Proposal for children portfolios Hello all, 
+Any recommendations for a good portfolio for children? I have 2 kids (7 and 3) and want to give them something when they’re 18. 
+I have been thinking about doing VT or VTI. I know it’s a very basic setup so what do you all think? Any better options? 
+
+Thanks!"
+"Starting young but lots of wasted time I’m 24 now but will be 25 tomorrow. I opened a Roth IRA account when I was 18 just to see what I could do with it. I bought a couple stocks, panic sold when they dipped, and never touched it again. Fast forward until 2 weeks ago. An older gentleman at work was talking about retirement and it reminded me I had a Roth. Logged in to see $750 just sitting there doing nothing. So I bought SCHG and SCHD. Then a couple days ago I deposited $550 and bought SCHX and some more SCHD and SCHG. I feel like I missed out on so much growth potential and I can’t help but to feel like I’m playing catch up. 
+
+My plan going forward is to max out my Roth every year and buy those three ETF’s. I don’t really know what I’m doing but I heard somewhere that time in the market beats timing the market so as long as I’m constantly investing, I’ll come out ahead when retirement age hits. 
+
+Tldr: I squandered 6 years of growth. Now what?"
+"Opinions on TQQQ I’ve been holding TQQQ for a year. About 40% in gain. My question is can it be a high growth option for long term growth, barring the crashes when things go crazy like tech bust etc? If I can ride those out am I crazy to use it for long term growth say like next 20 years?"
+Partner didn't have money She didn't have any money growing up so it's scared about investing and losing. I wanna tell her xeqt is solid etf but need some more convincing. Some other good ones reliable longterm would be great. Seen VOO schd qqqq or something similar. May have misquote those I'm not 100 percent.
+"New portfolio I have built this new portfolio. Would love any critics or suggestions for improvements. 
+
+VOO
+21%
+
+VTI
+19%
+
+QQQ
+13%
+
+SCHD
+13%
+
+VXUS
+10%
+
+VEA
+6%
+
+INRG
+5%
+
+RBOT
+5%
+
+GLD
+5%"
+"What is wrong with this portfolio? I'm doing 25% VOE, 25% XMHQ, and 50% AVNV for equities, then 10% of the total into EDV, 3% gold, 0.5% Bitcoin for fun.
+
+I'm dollar cost averaging a lump sum, other than EDV which I just bought.  Are there any glaring problem here, my assumption is I want to avoid a dotcom style collapse given AI hype and I believe it to be a bubble.
+
+Asset	Allocation (%)
+
+VOE	21.625
+
+XMHQ	21.625
+
+AVNV	43.25
+
+EDV	10
+
+Gold	3
+
+Bitcoin	0.5
+
+Total	100"
+Roth IRA in Fidelity I am currently 20M and I have a Roth IRA opened in Fidelity with about 1k to start that going. I obviously cant touch this money until 40 years in the future so I wonder if something as simple as VOO in my roth ira will beat everything over the next 40 years and be sitting at about 1.8m adjusted for inflation when i’m ready to retire because i don’t plan to retire until i’m around 60. I have more money to start investing in a webull brokerage to have some fun and make more money. Is this a solid plan moving forward and also for my brokerage what should i invest in?
+"21M: Need Roth IRA Strategy Advice I did some light research on ETFs awhile ago for my ROTH IRA for retirement and came out with this split:
+
+VOO 25%, 
+SPMO 25%, 
+IDMO 15%, 
+VT 15%, 
+AVMV 10%, 
+AVUV 10%
+
+Since then I’ve simply set it and forgotten it. My brokerage adds and automatically balances a lump out of my paycheck every month.
+
+I want to do a research deep dive and rebalancing, so I can have some peace of mind that I actually gave my strategy some real thought. I understand that over time you’re supposed to rebalance towards wealth protection as opposed to growth, my questions are for the short term.
+
+Should I be more aggressive given my age?
+Should I be more exposed to international markets?
+Should I not be invested in momentum ETFs as heavily for a ROTH?
+Are there any overlapping investments that could be used to diversify elsewhere?
+Should I just simplify it to like 3 etfs, and stop thinking about it?"
+"Just starting out – VWRP or build my own ETF mix? Hi all,
+
+I'm new to investing in the UK and planning to put in £50/month via Freetrade. I'm stuck between two options:
+
+1. Just buy VWRP – simple, global exposure, no rebalancing.
+
+2. Build my own mix – VUSA (US), VJPN (Japan), BLND (UK REIT), and an ESG ETF.
+I like the idea of keeping it simple with VWRP, but I’m also curious about picking a few UK dividend stocks later on to learn more.
+
+
+Anyone else started like this?
+
+. Is one ETF better to start with?
+. Or is building a mix worth it long-term?
+Thanks!"
+"Beginner Question on how to spread funds between ETFS. Hello everyone, I am relatively new to the stock market (21 years), and I am currently going for the strategy of building wealth for the long term. I currently invest in AVUV, QQQ, SCHD, VOO, and VXUS to try to get a good diversity. Right now, each one has 20 percent of my total account. Should I change the percentages to maximize returns, or, since I'm playing the long game, just consistently putting money in little by little into each one is enough? Thank you very much."
+Can you be addicted to buying ETFs? I am bleeding / sweating buying Voo every day of the week. I don’t wanna spend on anything else in life. Can you be addicted to this? Is this a gambling issue?
+"Should I buy QQQ or QQQM? From my limited knowledge, they have the same limitations and growth potential, but QQQM has a slightly lower expense ratio. I currently own QQQ but am considering flipping it to QQQM. If anyone has thoughts or guidance would be appreciated!"
+"Microsoft’s $4 trillion Moment Could Supercharge ETF Strategies ETFs like AIQ, IGV, VGT, and XLK are evolving into stealth pipelines for enterprise AI and cloud growth.
+
+August 2025"
+"suggest strategy, is this ok? I (37m) had a late growth spurt when it comes to investing and wish i started in my 20's. i guess its never too late.  
+
+I currently have fxaix (60%), schg (20%) and qqqm (20%) in my 401k and automated investment into voo (70%) and spmo (30%) in my brokerage account (taxable). is this a good selection of etfs?
+
+I'm wondering if i should rebalance my 401k with fxaix and convert the rest to vug or vgt or avuv. is this a good strategy? 
+
+I know this question gets asked often and I really appreciate everyone's thoughts and help."
+"Splg for spyg? Besides taxes, diversification, and expense ratio increase of .02% what other cons should I consider? 
+
+Would you switch from a s&p 500 etf to a growth?"
+"True Cost of Leveraged ETFs ## ⚡️ The hidden costs of leveraged ETFs
+
+I have to tell y'all something I've ""discovered"" which, when you really think about it, is pretty obvious and logical, to be honest.
+
+I have only just become aware of the trap that the stock market is for smaller, non-professional retail investors. It feels like there's an unspoken conspiracy to obscure key information from them, especially regarding the real costs. Through this, I've also come to understand just how important interest rates are and the dramatic impact they have on the entire stock market.
+
+Let's go through it step by step:
+
+### How can the cost of an ETF be 10% if the fee is only 0.15%?
+
+I stumbled across a 5x leveraged ETF by chance and, wondering how they make money, looked through their official PDF document ([link here](https://lt.morningstar.com/1c6qh1t6k9/snapshotpdf/default.aspx?LanguageId=en-GB&SecurityToken=0P0001O3WV9991DFXALL4ALL_1392&Id=0P0001O3WV&ClientFund=1&BaseCurrencyId=EUR&InvestmentType=FO)) and I was astonished by what I learned.
+
+On the second page, in the top left corner, there's a section called 'How Much Does it Cost?'. Take note: the official management fee (Expense Ratio) is just 0.15%. But a few lines below, they state that the total annual cost of running the ETF (Ongoing Charge) is actually 9.75%! How?
+
+### The cost of inflation
+
+On top of all this, real inflation is NOT 2–3% as officially reported, but rather closer to 12–15% in countries like the US (see the [Chapwood Index](https://chapwoodindex.com/) for details), and probably much higher in other parts of the world.
+
+### Why the Expense Ratio (ER) is practically irrelevant
+
+It's obvious: the famous Expense Ratio (ER), which most people see as the main cost of an ETF, is actually an almost irrelevant detail that serves as a smokescreen when using a leveraged ETF.
+
+## Explanation: The real annual cost of TQQQ (3x Nasdaq 100)
+
+Here is a broken-down, specific example for the popular TQQQ:
+
+1.  **Management fee (expense ratio)**  
+is around 0.84–0.97%. This is the figure that is publicly displayed and known to us all, but it actually represents a ridiculously small part of the total cost.
+
+2. **The main cost is in the interests**  
+This is the key expense that is rarely mentioned. To achieve 3x leverage, TQQQ must use financial derivatives (swaps and futures), and the cost of this borrowing is short-term interest rate (e.g. the federal funds rate) plus around 0.5%. A rough calculation shows the cost for a 3x leveraged ETF to be approximately twice the benchmark interest rate. If the interest rate is 5%, this hidden cost is close to 10% per year — a figure which, of course, is not included in the Expense Ratio.
+
+3. **Volatility decay**  
+This is a well-known consequence of the daily rebalancing of leveraged ETFs. While not a direct cost, it is a mathematical reality that erodes returns over time. It is important to be aware that rebalancing takes place at the end of each day. Consequently, if the price rises for ten consecutive days, the return will be as expected. However, if the market is stagnant overall but volatile day by day, the return will be drastically lower, even if the underlying non-leveraged index is positive. I suspect that's why we have such violent ups and downs in prices, which is probably due to big investors making money from small investors.
+
+> **Extreme example** of risk... If NASDAQ-100 (aka QQQ ETF) falls by 20%, the value of WisdomTree NASDAQ-100 5x Daily Leveraged (QSL5.DE) is theoretically almost wiped out, as 5 x -20% = -100%. This is why it is in this year down 23% when the non-leveraged QQQ is up 10%.
+
+## Conclusion
+
+The real annual cost of holding TQQQ is the sum of the listed items, which amounts to approximately 11–12% per year. This is a fixed 'burden' that you pay every year, regardless of whether the market is going up or down.
+
+This is why a 2x leveraged ETF is somewhat more bearable, as the interest cost is half as much (around 5% at today's rates).
+
+If you have enough money and therefore you're not using leverage, you don't incur this main hidden cost. Madness, isn't it?
+
+### A bit more real-world maths...
+
+Here are two examples that perfectly illustrate the point:
+
+1.  Example from last year (a period of growth):  
+    QQQ increased by ~27.2%. The expected return for TQQQ would be 3 x 27.2%, or 81.6%.
+    However, the actual return on TQQQ was ~54.6%.
+    That is a shortfall of 27 percentage points compared to the theoretical return, which is consistent with the calculation of hidden costs and volatility decay.
+2.  Example from the start of the year to today (a period with a correction):  
+    During this period, there was one significant correction, so the volatility decay was more pronounced. QQQ went up by ~8.5%. In that time, TQQQ returned only **~5.5%**. This is less than QQQ itself! In fact, QQQ at least covered the semi-annual inflation and TQQQ lost money in real terms.
+
+## The advantage for those who have money
+
+Those who have enough money from the start are at a huge advantage. They don't have to use expensive leveraged products or borrow from brokers through margin — in the EU, this is called a Lombard loan — thereby avoiding enormous costs.
+
+- They don't use leveraged ETFs. This automatically saves them ~10% per year on hidden interest costs, for example those incurred by TQQQ.
+- They don't use margin from their broker. This saves them an additional ~7% per year in interest on the loan.
+
+Therefore, if you trade with TQQQ and are also on margin, you have to earn roughly 17% more than someone who does everything with their own money, just to be on a level playing field. Don't forget: if the year is flat, which is rare, you will still have lost 17%, whereas the rich guy will not.
+
+---
+
+### But that's life, isn't it? The eternal hope that you'll be the one to make it. Even though you probably won't 😢
+
+And yet, on the other hand, you should also read this https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/."
+"$IAI the little known financials ETF beating the Q's $IAI is the iShares U.S. Broker-Dealers & Securities Exchanges ETF. While it’s not flashy or trendy, it has delivered strong results, outperforming the Q's on a year-to-date, 1-year, and 5-year charts.
+
+Beyond the solid performance, $IAI holds companies with straightforward and durable business models. Brokerages and exchanges make money when investors trade, through transaction fees, margin interest, and licensing fees from the indexes they manage. It's a simple, easy to understand way of generating revenue.
+
+Top holdings include high-quality firms like Goldman Sachs, Morgan Stanley, S&P Global, Charles Schwab, and Robinhood.
+
+Anyway I never see them mentioned in this sub."
+"Am i silly for having VOO, VTI and QQQ? I’m 20 and I know that they overlap, and since I’m young I should be focused on growth. But just want to know what you guys all think"
+"Any advice is appreciated My ROTH IRA is currently mostly VOO - Good amount of AVUV and a little bit of IBIT
+
+In regular brokerage I have a bunch of single stocks of companies I really like and believe in. I don’t plan on touching any of this as I DCA into them along side what I invest in in my ROTH. 
+
+I’m in my late 20s and want to take on as much risk as I can! 
+
+I currently added JTEK in my ROTH as a large growth tech fund, is the 0.65% fee worth it? I believe in the companies and the future of tech just want to see if people are invested into other similar funds 
+
+Im also thinking about adding SOXL into my roth instead of SMH, I know it is much more volatile and probably more day traded then it is maybe held for long term. Is it too risky? Is it better to not be leveraged positions even this early into investing for my retirement? 
+
+I’d appreciate any advice, thank you."
+"Where to invest $5K Just started investing about a year ago and so far my portfolio is up 30%: GOOGL, NVDA,TSLA,VV.
+
+If you had $5000 to invest right now would you add it to my current choices or branch out to something else?
+
+Just got a bonus and want to invest it. 
+
+Any advice will be appreciated :)"
+"ASX Help Needed I’m in Melbourne. Currently can invest 300$ per month. What should be the best way to do it. 
+
+I am 26 now. Currently have 1500$ in VGS and VAS and 1 nvdia share. Any suggestion would be helpful. 
+Thanks"
+"What happens with my money when the stock exchange is closed? So I have long term invesitions on F24, and this platform shows diagram how much money you have at difference time. So I'm interested why on my account when stock exchange is closed, show that my money is grown, but when it's open money return the previous prize. Can someone explain this? Things like that is normal on other exchange?"
+"Recommendations I've got $15k to invest. I'm 34 with solid retirement accounts with $100k+. So far, I have $7k in VOO and $3k in SCHG. Any recommendations for the last $5k? This is a non tax advantaged account that I'm putting some of my savings into to try and get some growth. 
+
+Edit: I know this is r/ETF, but if you have any non etf recommendations, I would be happy to hear them as well. 
+
+Edit 2: I also have another $20k in a CD with 3.5% apy that matures in 3 months."
+"What would be the best combo of BRK.B, S&P 500, Gold ETC, and Emerging Markets ETF? What would be the best combination of any of these to invest? How much on each? Why?
+
+If there are a lot of companies that have P/E over 30 and even much more and the S&P 500 is built basically on these companies, would be a smart idea to buy S&P 500? Isn't it risky?
+
+Some guys are talking that it would be a great idea to buy S&P 500 and ETC on Gold because when one is riding up the other is going down but it seems to me that both of them are going going up huge. How to do in this situation?
+
+What do you think is going to happen and what is the best to do with your money?
+
+Thank you in advance!"
+"Supplement VOO with AI and military I've mainly been thinking about my investments as +10 or 20 years. However I recently thought that maybe I should diversify a bit.
+
+I believe we're in an AI and arms race which will go on for at least the next 3-5 years and possible a lot longer.
+
+To keep things simple I've previously been buying strictly VOO but now I'm thinking that I should start putting 25% in an AI ETF and 25% in a military related ETF. What do you guys think about this strategy? And if it make sense, which ETF's would you suggest?"
+"25 and considering doing a 60/40 ETF split. Suggestions? So I was wondering if I should and what I should diversify it with. I understand that due to my age i'm in a fairly decent spot which is why I was going to hold off on diversifying. I was about to throw in another 8k or so and I thought why not do it now instead of later.  Looking for suggestions on what direction to look towards so I can do some research on it and go from there.
+
+Across all accounts I have around 50k, that's including what I have in tsp. No access to a 401k yet and likely won't be in a position where I can contribute to roth ira for next 3-5 years, so my ""monthly portion towards retirement"" is going to be going towards ETF's for a while. Also a property I'm looking into
+
+Also i'm not really in it for the quick buck either. I'm viewing all of this stuff as an alternate retirement plan that I have outside of my current ongoing stuff"
+"VGT or SCHG My portfolio is mainly VOO, but which etf should I pair it with? I've already got some vgt and schg, but not nearly as much as I have VOO. 
+
+I'm also considering QqqM, and I have schd that I'd like to sell to buy one of these few.
+
+Any tips would be appreciated!"
+"VTV for VUG? i have $50k in VTV... thinking of selling it and buying up VUG. thoughts? also, does this fall under the tax rule that im selling and buying similar ETF and so uncle sam won't bite my ass?"
+"Advice for investment on behalf of my 16 yr old Hello  
+first time poster, thanks for providing wealth of info.  
+I want to start investing on behalf of my 16 yr old.  
+and time horizon of 15 yrs.  
+I did not start any 529 or any other investment so this will be the primary investment for them.
+
+I am 51 yr old.
+
+I will start with a seed investment of 150K  
+with 20K/per year additional investment.
+
+Help needed  
+a) should i just do VTI-100% or VTI 50% and QQQM 50% (whatever split i do for the seed investment, ill do the same for the yearlies.  
+or 70% VTI + 20% QQQM + 10% VXUS   
+b) i do believe that the tech market will have a growth run for the next 10 yrs, so if that's not captured in (a) then i can add to the funds being considered  
+c) i want it to be passive other than me adding the yearly additions.  
+d) where would i purchase these?
+
+thanks again for input."
+SMH ETF I’m 22 years old and I want exposure to semi conductors and tech stocks. AI is definitely the future for the next 10-15 years atleast. So is this a good etf to get exposure to or do you recommend any other ETFs. I know SCHG is good but its least weighted on semi conductors
+Should I do VOO + VXUS or VTI + VXUS? As a 26 year old for retirement
+"My portfolio as 22 year old Please suggest what more should I do. I can put around 100 cad every month.
+
+Thanks"
+"Rebalancing Do you rebalance your portfolio, just invest new money according to your portfolio allocation, or do something else? Why?
+
+[View Poll](https://www.reddit.com/poll/1mh37ag)"
+"Feedback on my $700/mo recurring investment I’m aiming for aggressive/balanced long-term growth and trying to maintain a \~70/30 US/international equity allocation with some factor tilts (momentum, small-cap value). 
+
+|ETF/Fund|Amount $|
+|:-|:-|
+|SPMO|210|
+|FSKAX|130|
+|AVUV|80|
+|FBTC|50|
+|AVDV|60|
+|IDMO|90|
+|FTIHX|80|
+
+**Questions:**
+
+1. Any redundancy or overlap I should be concerned about?
+2. Would you suggest alternatives to SPMO or FBTC in a downturn or sideways market?
+3. How would you tweak this for better risk-adjusted growth?
+
+Appreciate any thoughts or suggestions"
+"Any comments/suggestions for my long term allocation? - VTI: 50% (Total USA)
+
+- QQQM: 25% (Top 100 USA)
+
+- VXUS: 13% (Total International)
+
+- AVDV: 7% (Small Cap Value International)
+
+- FTBC: 5% (Bitcoin)
+
+It's essentially 75% in USA equity with a tilt in tech, 20% in international equity with a tilt in small cap value, and 5% bitcoin. Looking to hold this for 20-30 years. Any advice or suggestions or comments? The international allocation is what I struggle with most, what % to have and what funds to invest in."
+"22M, What should I do? Hey everyone! 
+ 
+I’m a 22 year old who just recently graduated college last year. I was able to get a job paying me roughly $90k a year pre tax. 
+
+I have a buddy who graduated with a finance degree who constantly gives me recommendations. I take it all with a grain of salt considering he also just graduated and has little experience. 
+
+
+Here is the portfolio he recommended. I have roughly $40k sitting in my checking account. Debt free. 
+
+
+SCHG - Large Cap Growth 
+SMH - Semi-conductor 
+QQQ 
+VDE - Energy 
+VTV - Value 
+GLD - Hold gold for inflation purposes. 
+
+Open to hearing opinions. Goal is to retire before 65, have a luxury vehicle, and make the people around me happy."
+3 ETF Portfolio Thoughts on a VTI+SCHD+QQQM 1/3 each portfolio as a 21 year old long term investor?
+What 3 to 4 ETF should I invest in? I am 45 and have $100k looking to put into ETF for long term.  What is the best 3 to 4 ETF to invest into? At my age should I get a Dividend ETF?
+"Late start on retirement Alright, I'm getting a late start on retirement. I've been binge researching the past month, maybe it's become paralysis by analysis but I am trying to really understand my options. I'm 43. I plan to open a Roth IRA. I've been reading and researching on Google and Chat GPT. I had thought SCHD might be the answer but when I ran simulations it seems mediocre at best.
+
+I asked Chat GPT to give me the most aggressive growth options, regardless of risk. It provided me with a portfolio with TQQQ, SOXL and SMH. It gives me warnings that there is risk involved here, but I wanted to come here and engage with people who have experience on this subject and see what you guys think. I want to be aggressive. I know the future is unknown, but I don't know the practical pros or cons of a leveraged ETF, which is what TQQQ and SOXL are. Is this insanity? Is that just ultra aggressive and as long as I don't have a weak stomach I will come out ahead?
+
+Just hoping for some general guidance. Any constructive input would be greatly appreciated. Thanks!"
+Is IBIT blackrock bitcoin etf good investment? Is IBIT blackrock bitcoin etf good investment?
+"M22 starting to invest Hi everyone,
+
+I’m a M22 from Spain just starting to invest.
+
+What do you think of my portfolio? (I plan to add the all-world vanguard ETF as well). I’ll be a student for at least the next two years so my plan is to add 120€ to each of those ETFs every month.
+
+I prefer distribution because the moment I see dividends hit my account it’ll help me feel like I’m actually doing something 😅"
+"Question for long timers I’m going to start DCA to ETF’s, my age is close to 40…
+
+Wondering for those who has done this for the last 10 years how was your gains in terms of percentage?
+
+I’m going to buy monthly $2000 in the following 
+VTI, QQQM, SCHG
+
+Been doing CD’s but realizing 4% here and there isn’t really doing much for me… 
+Appreciate insight, thank you! 
+
+Edit: thank you all so much! In summary, im going to add VXUS and also set my expectations where I don’t expect the performance from last 10 years.  Extra kudos for the post mentioning how their 10k 37 years ago is now over a million!!! 
+Appreciate all of your time and input helping me play catch up from using CD’s all these years :’)"
+Should I just stick with Voo/vti or should I add stuff like schg or spmo and Avuv? Just curious would you all recommending me spreading some money into these etfs for a bit of a tilt towards growth and better small caps? I hear the small caps in vti are lackluster and maybe I could use a growth tilt because I’m only 23.
+"VOO and chill? I’m thinking about investing into VOO and chill. How will this make any money in the long run? I don’t know much about ETFs but 570ish seems a bit high. If I was only about to buy a handful, how will this make any money over time? Does it just always go up over decades? I probably have another 20-30 years before I can even retire. Can someone explain it to me like I am 5?
+
+Should I wait for a big red day? Or just buy in with every check until I retire? All comments are welcome! Thanks!"
+What is good to pair with VOOG He fellow ETFers. I want some diversity in a small fund. This is separate from my main investments and is for a bucket list trip at retirement. What is a good option to pair with the VOOG we already have? Thanks in advance!
+"Help me balance I am trying to max out 401k through brokerage link.
+And here is what I have selected for the etf that I am interested in : 
+
+Splg: 20%
+Vti : 20%
+Schg: 30%
+Vot:10%
+Vbk: 10% 
+Individual stocks : 10%.
+
+Am I doing this the right way. I am still in mid 20s"
+"If you were 35 and adding just one growth ETF to go with VOO, what would you pick and why? I'm 35 and looking to add one growth ETF to pair with VOO for simplicity. The other 50% of my investments is in a government-backed savings program (similar to a fixed-income or time deposit) with partially guaranteed returns with the possibility of earning more, so I'm mainly looking for long-term growth on this side of the portfolio. Thank you."
+"Thoughts/Critiques on this split: VOO    30%    
+VGT    20%    
+CHAT    10%    
+XTL    10%
+VXUS    15%
+BND    15%"
+"A Big Market Dip Might Be Coming This is just my opinion, but I think we're heading for a significant correction soon. I’m not claiming to time the market, but several things are making me cautious right now:
+
+* Interest rates are still high and likely to stay that way
+* Corporate earnings are slowing while valuations stay elevated
+* Geopolitical tensions and instability are increasing
+* Tariffs and trade restrictions are coming back into play
+* Consumer debt is at record levels, and spending looks unsustainable
+* Some sectors, especially tech, look very overheated
+
+I’m not trying to spread fear — just sharing what I see and why I’m preparing myself mentally for a possible dip."
+"What is in your Etf Portfolio? Share your favorite Picks and Why. Hi Investors,
+
+I’m interested to hear about the types of ETFs everyone currently holds. My approach is Kinda straightforward: 90% allocated to VT (Total World Stock ETF), with the remaining 10% in BND (Total Bond Market ETF).
+
+VT appeals to me due to its broad global equity exposure, effectively simplifying diversification. Meanwhile, BND offers a stabilizing element and some fixed income, which I consider great for weathering market volatility. My  goal is long-term capital appreciation, but I also value maintaining some portfolio balance.
+
+A few points for discussion:
+
+* What guides your decision-making process for determining your stock-to-bond ratio? Is it based on age, risk tolerance, or another framework?
+* Do you prefer comprehensive global funds like VT, or do you favor constructing a mix of regional ETFs?
+* How frequently do you rebalance your portfolio, and what criteria do you use?
+* Are there any lesser-known ETFs you believe deserve greater attention?
+* What is your strategy into international exposure within your portfolio?
+
+I would appreciate hearing about others’ portfolio strategies and any insights you’re willing to share. Looking forward to the discussion.
+
+P.S I have an custodial account, and is allocating 500 dollars per year for 50 Years what about you?"
+"How to Utilize Robinhood Margin + Trust Fund I am 21 and I have about 30 grand invested in Robin Hood. I also have a $500,000 trust fund that I unfortunately will not get access to until I’m 30.
+
+I’m looking for a scheme to take advantage of my margin.
+
+I understand that I am super super blessed. I was thinking because Robin Hood only charges 5% interest that I could take take 30 grand of margin and throw it in some secure fixed return that is above 5%.
+
+I was considering doing some BDC’s but then I noticed that after the dividend pays out the stock drops.
+
+I considered throwing some in stable coins, but Robin Hood doesn’t pay out on those.
+
+I considered looking into some bonds, but it was really hard for me to find reliable non-junk bonds that had a yield higher than 5%.
+
+I could throw them into equities, but that really isn’t worth the risk in my opinion. 
+
+also the advice to just wait for the trust fund is cool and all, but does not have to do with my question."
+"Need help. Tell me how to spend my money please So, I have 20k sitting in a Fidelity individual fund account waiting to be invested into something. 
+
+Im 34 yo and have no clue about stocks and the hole game of it all. I dont have time to sit around and watch and try to micromanage everything.
+
+What things (like etfs i guess) can i dump this 20k into for the long haul?"
+"Invesco MSCI World Equal Weight UCITS ETF Fairly new so difficult to compare performance.
+
+Invests in over 1400 holdings but equally: which makes it fundamentally different to most other ETFs with many holdings (which are often still 20% in the top ten).
+
+Thoughts?"
+how often do u sell some of your ETF holdings to get some extra cash and how does that affect your long term play? assuming this is something u do instead of pulling out cash from somewhere else
+"FCNTX VS FSPGX Confused between these two funds. One is passive and another one is active. 
+
+Both has shown significant returns in past. 
+
+If you had to choose one, is either one of then better. Or should invest in both ?"
+"Why ""SPY/VOO and chill"" over ""QQQ and chill""? So Im quite new to the market, I have 50 SPY etfs and I thought to myself- why SPY over QQQ? correct me if Im wrong but tech is what takes SPY up by the most isnt it? Im not saying that other sectors doesnt add to the index but if so why wouldnt I just buy QQQ to make it 100% tech and thats it.
+
+I know that QQQ tends to be more risky but I have a lot of time ahead in the market.
+
+Thanks!"
+"Allocation Advise Request Hello! Could you please share your thoughts on this portfolio?
+
+* 35% | SPTM - S&P 1500 TOTAL US MARKET
+* 35% | SPMO - US S&P 100 MOMENTUM
+* 10% | AVDE - INTL EX-US EQUITY
+* 10% | IDMO - INTL S&P 200 MOMENTUM
+* 5% | JAAA - J.H. AAA CLO ETF
+* 5% | FSCO - INTL FIXED INCOME CEF
+
+Age 25, retiring in 30-35 years ideally.
+
+I’m figuring this gives me the popular consensus of a good portfolio, 70% US Equities, 20% International Equities, 10% Bonds & Fixed Income.
+
+Two solid low cost total market funds plus momentum for the periods that those outperform, plus bonds/fixed income for less drawdown + compounding dividends. Can rebalance this over time to allocate more towards bonds as I’m nearing retirement.
+
+Anything I should change or weight differently?
+Any advice is greatly appreciated!"
+"My portfolio as a 20 yr old, advice or recommendations needed I’m 20 years old and a strong believer in the AI/Tech revolution. I consistently DCA, buying 1 share of IVV or A200 every fortnight. Should I increase my ETF weighting over stocks, diversify into Asian/European markets, and, despite overlap, consider the FANG ETF for more tech exposure? Any advice or recommendations are appreciated.
+
+https://preview.redd.it/uod9peu0srgf1.png?width=1863&format=png&auto=webp&s=b5ec286aec6fa27ceb555877d8b54db475a84ddf"
+"Advice New investor here. Which etf would you recommend and why?
+
+VOO, SPLG, ISUS, QQQM
+open to others too"
+"Preparing for the Recession with $700k lumpsum As it is a matter of time for the market crash, is it good idea to lumpsum $100k each into SPMO IDMO for bulls to max
+CGDV CGDG for sideway and recovery
+SGOV TLT IEF to deploy at the bottom
+
+I like GDE also. Shall I do GDE instead of TLT?"
+"Keep my VOO only or sell and buy VTI+VXUS? Hey everyone! 
+
+Following most advice given here on the sub ive been buying for a year and a half now VOO each month when my paycheck arrives.
+
+But lurking through most recent posts, many people say I could be missing out on possible gains by not buying international.
+
+Because ive spent so little time until now buying, I think I'm still in a position to migrate to other stocks or even start buying others.
+
+So, what would you say? These would be my options
+
+- Keep buying 100% VOO
+- Keep what I have in VOO but for future paychecks divide the investment money into 70% VOO and 30% VXUS
+- Sell my all my VOO shares and buy VTI + VXUS
+- Stop buying VOO, keep what I have but start buying VTI + VXUS
+- Do any of the past options but for VT
+
+What do you guys think would be my best option? Thanks!"
+"CONSIGLIO portafoglio ETF Buongiorno a tutti, un consiglio su questo mio portafoto. Ho orizzonte temporale molto lungo e propensione al rischio elevato. Investo solo denaro mensilmente di cui non ho necessità. Ho qualche dubbio sulla parte obbligazionari e sull'uso dei fattoriali (sono consapevole che il Momentum al momento è molto costoso). 
+Ha senso avere una parte obbligazionaria di lungo periodo considerando che le obbligazioni mi servono per decorrelazione dall'azionario? 
+Grazie a tutti! 
+
+EQUITY 60%
+World momentum 30%
+World minimum volatility 20 %
+Emerging markets Value 10%
+
+BOND 30%
+Long TERM (15-30 years) bond EU 15%
+Bond 7/10 years EU 7.5%
+Global Inflation linked bond 7.5%
+
+Gold 10%"
+"EU based investor Can someone help me with a view from an eu (German) investor side?
+
+This voo, etc you mentioned very often is, as far as I know the perfect product, for an us based investor. From a German view, with tax, dollar/euro, etc. it might be not as good as ucits etfs?
+
+Has someone the perfect etfs for me, with the knowledge investing as a German person?"
+"Energy ETFs It seems pretty clear that energy usage is increasing rapidly especially in regards to AI. While it is ambiguous whether AI companies directly will be profitable and continue to grow long-term, there is demand for energy infrastructure that comes along with it.
+
+With that in mind, which energy ETFs seem best to capitalize on this demand?"
+"Would you lump sum or DCA Imagine you have $50.000 to invest in VOO. The market is down right now, maybe there is stagflation and the US might be in a recession.
+
+How would you handle this and why?
+
+I know some say the strategy is DCA and chill but how much would you feel comfortable with during these times?"
+"How good is this portfolio in terms of growth? Any changes to allocations or recommendations? 
+
+SCHG 30% 
+BRK-B 20% 
+ARKK 15% 
+CIBR 15% 
+XLI 10% 
+XLC 10%"
+"SMH Expense Ratio hi everyone! so i need a second opinion. first, i’d like to clarify for all the “just buy VTI and VXUS” folks that i am aware of a well diversified portfolio haha. i just so happen to have another brokerage account that holds SMH. my question is, do you guys believe i should just sell all my shares of SMH due to the high expense ratio? im assuming my gains wont be to the fullest potential because of the ER and taxes once i sell to a comfortable amount."
+"Researching on OMAH, looking for others' opinions (to be used for my research, not as a reco to blindly follow) Hello, was randomly scrolling on X/Twitter looking for ETF posts and I saw a post about OMAH. It's an ETF that has 15% annual yield target and has exposure to BRK.B and it's top 20 holdings. I know Buffett is retiring and was wondering if anyone has this ETF and would love to share their thoughts on it. 
+
+  
+Thanks for your thoughts."

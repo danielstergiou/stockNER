@@ -1,0 +1,9 @@
+Derivative,OtherNames,Category
+Call Option,call|calls|call option|call options,Option Type
+Put Option,put|puts|put option|put options,Option Type
+Put To Call Ratio, put to call ratio|put call ratio|put call oi ratio,Option Metric
+Options,option|options,Derivative
+Future,future|futures,Derivative
+Swap,swap|swaps,Derivative
+Short Position,short|shorts|shorting|shorted,Position
+Long Position,long|going long,Position
