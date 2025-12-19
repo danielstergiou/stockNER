@@ -60,9 +60,10 @@ def scrape_subreddit(
     out_csv: str = None,
     out_txt: str = None,
 ):
+    MASTER_TXT = "/Users/danielstergiou/Desktop/Projects/stockNER/data/redditDatasets/cleanedRedditDatasets/allRedditPosts.txt"
     
     if out_txt is None:
-        out_txt = f"/Users/danielstergiou/Desktop/Projects/stockNER/data/redditDatasets/cleanedRedditDatasets/r-{subreddit.lower()}_posts.txt"
+        out_txt = f"/Users/danielstergiou/Desktop/Projects/stockNER/data/redditDatasets/cleanedRedditDatasets/r-{subreddit.lower()}Posts.txt"
     
     print(f"\n{'='*60}")
     print(f"Scraping r/{subreddit}")
@@ -128,10 +129,16 @@ def scrape_subreddit(
     df = df.drop_duplicates(subset=['text'], keep='first')
     duplicates_removed = original_len - len(df)
     
-    # Save TXT file for labeler (one post per line)
+    # Write per-subreddit file (overwrite is fine)
     with open(out_txt, 'w', encoding='utf-8') as f:
         for text in df['text']:
             f.write(text + '\n')
+
+    # Append to master file
+    with open(MASTER_TXT, 'a', encoding='utf-8') as f:
+        for text in df['text']:
+            f.write(text + '\n')
+
     
     # Print summary
     print(f"Results:")
