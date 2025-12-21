@@ -4,19 +4,44 @@ Shelter Index,shelter index|index for shelter|shelter price|shelter prices|housi
 Inflation,CPI|consumer price index|inflation rate|inflation rates,indicator,Economic Indicator
 Unemployment,jobless rate|unemployment rate,indicator,Economic Indicator
 GDP,gdp|gross domestic product,indicator,Economic Indicator
+CPI,cpi|consumer price index|inflation rate|inflation rates,indicator,Economic Indicator
+PPI,ppi|producer price index,indicator,Economic Indicator
 Interest Rate,interest rate|fed funds rate|policy rate,indicator,Economic Indicator
-Bear Market,bear market|bearish market|bear run|bear runs|market correction,indicator,Market Condition
-Bull Market,bull market|bullish market|bull run|bull runs,indicator,Market Condition
 Energy Index,energy index|energy indexes|energy prices,indicator,Market Sentiment
 Labor Market,labor market|labor|job openings|job seekers|jobs, indicator, Economic Indicator
+
+DXY, dxy|dollar index|us dollar index|u.s. dollar index,indicator,Economic Indicator
+S&P 500,s&p|sp|spx|sp500|s&p 500|s&p500|standard & poor's 500|standard and poor's 500,indicator,Market Index
+Dow Jones,dow|djia|dow jones|dow jones industrial average,indicator,Market Index
+Nasdaq,nasdaq|ndx|nasdaq 100|nasdaq composite|nasdaq index,indicator,Market Index
+VIX,vix|volatility index|cboe volatility index|fear index,indicator,Market Sentiment
+Russell 2000,russell|rut|russell 2000|russell index|small caps index,indicator,Market Index
+STOXX 600,stoxx|stoxx 600|european stoxx 600|europe stoxx 600,indicator,Market Index
+ASX200,asx200|asx 200|australian asx 200|australian stock exchange 200,indicator,Market Index
+Hang Seng, hang seng|hsi|hang seng index|hong kong hang seng index,indicator,Market Index
+Nikkei 225,nikkei|nikkei 225|japanese nikkei 225|japan nikkei 225,indicator,Market Index
+DAX, dax|german dax|germany dax|deutsche aktienindex,indicator,Market Index
+MDAX,mdax|mdax index|german mdax|germany mdax,indicator,Market Index
+FTSE 100,ftse|ftse 100|uk ftse 100|british ftse 100,indicator,Market Index
+FTSE 250,ftse 250|ftse250|uk ftse 250|british ftse 250,indicator,Market Index
+TECDAX,tecdax|tecdax index|german tecdax|germany tecdax,indicator,Market Index
 
 War,war|conflict|invasion|battle|hostilities,event,Geopolitical
 War In Ukraine,war in ukraine|ukraine war|russian invasion of ukraine,event,Geopolitical
 Pandemic,pandemic|covid|covid19|covid19 pandemic|coronavirus|epidemic,event,Health  
 Lockdown,lockdown|lockdowns,event,Policy  
 Sanctions,sanctions|economic sanctions,event,Geopolitical  
-Trade War,trade war|trade tariffs|tariff war,event,Geopolitical  
+Trade War,trade war | trade conflict,event,Geopolitical  
+Tarrifs,tarrifs|tariff,event,Policy
 Quantitative Easing,quantitative easing|qe,event,Policy  
 Quantitative Tightening,quantitative tightening|qt|quantitative tightenings,event,Policy  
 Recession,recession|economic downturn,event,Economic Indicator 
-Short Squeeze,short squeeze|squeeze,event,Market Condition
+
+Federal Reserve,fed|the fed|federal reserve|fomc|fed meeting,institution,Central Bank
+Interest Rate Hike,rate hike|rate hikes|hiking rates|rate increase,event,Monetary Policy
+Interest Rate Cut,rate cut|rate cuts|cutting rates|rate decrease,event,Monetary Policy
+Treasury Yields,yields|treasury yields|bond yields|10 year yield|10y yield|2 year yield|2y yield,indicator,Fixed Income
+Yield Curve,yield curve|yield curve inversion|inverted yield curve,indicator,Fixed Income
+PCE,pce|personal consumption expenditures|core pce,indicator,Economic Indicator
+Nonfarm Payrolls,nfp|nonfarm payrolls|jobs report|payrolls,indicator,Economic Indicator
+Tariffs,tariff|tariffs|trade tariffs,event,Geopolitical

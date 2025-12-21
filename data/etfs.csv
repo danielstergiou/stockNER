@@ -1,7 +1,6 @@
 Ticker,Name,Sector,OtherName
-VIX,CBOE Volatility Index, 
 UVIX,2x Long VIX Futures ETF,Trading--Leveraged Equity
-SPY,SPDR S&P 500 ETF Trust,Large Blend,"SP500,SP 500,S&P 500, Standard Poor S 500, SP"
+SPY,SPDR S&P 500 ETF Trust,Large Blend
 IVV,iShares Core S&P 500 ETF,Large Blend
 VOO,Vanguard S&P 500 ETF,Large Blend
 VTI,Vanguard Total Stock Market Index Fund ETF Shares,Large Blend
@@ -103,3 +102,20 @@ BIV,Vanguard Intermediate-Term Bond Index Fund,Intermediate Core Bond
 TIP,iShares TIPS Bond ETF,Inflation-Protected Bond
 GDX,VanEck Gold Miners ETF, 
 UX,Roundhill Uranium ETF,
+ARKB,ARK 21Shares Bitcoin ETF,Digital Assets,
+TSLL,Direxion Daily TSLA Bull 2X,Trading--Leveraged Equity,
+NVDL,GraniteShares 2x Long NVDA Daily ETF,Trading--Leveraged Equity,
+MSTX,T-Rex 2X Long MSTR Daily Target ETF,Trading--Leveraged Equity,
+SQQQ,ProShares UltraPro Short QQQ,Trading--Inverse Equity,
+EQQQ,Invesco Nasdaq 100 UCITS,Trading--Leveraged Equity,
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Trading--Miscellaneous,
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Trading--Leveraged Equity,
+SVXY,ProShares Short VIX Short-Term Futures ETF,Trading--Inverse Equity,
+SPXL,Direxion Daily S&P 500 Bull 3X,Trading--Leveraged Equity,
+SPXU,Direxion Daily S&P 500 Bear 3X,Trading--Inverse Equity,
+ARKK,ARK Innovation ETF,Technology
+ARKG,ARK Genomic Revolution ETF,Biotechnology
+ARKW,ARK Web x.0 ETF,Technology
+FXI,iShares China Large-Cap ETF,China Stock
+JEPQ,JPMorgan Equity Premium Income ETF,Derivative Income
+UNG,United States Natural Gas Fund,Energy

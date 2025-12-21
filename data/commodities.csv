@@ -1,17 +1,28 @@
-Name,OtherName,Category,Subcategory
-Gold,,Metal,Precious Metal
-Silver,,Metal,Precious Metal
-Uranium,,Metal,Precious Metal
-Lithium,,Metal,Precious Metal
-Crude Oil,WTI,Energy,Oil
-Oil,oil,Energy,Oil
-Natural Gas,Gas|gas,Energy,Gas
-Nuclear Energy,Nuclear|nuclear,Energy,Nuclear
-Coal,,Energy,Coal
-Corn,,Soft Commodity,Grain
-Wheat,,Soft Commodity,Grain
-Eggs,egg,Soft Commodity
-Soybeans,Beans,Soft Commodity,Grain
-US Treasury Bond,T-Bond,Fixed Income,Government Bond
-Cannabis,Weed|Marijuana|Cannabiz,Soft Commodity
-Pork Belly,,Soft Commodity
+Name,OtherNames,Category,Subcategory
+Gold,gold,Metal,Precious Metal
+Silver,silver,Metal,Precious Metal
+Uranium,uranium,Metal,Precious Metal
+Lithium,lithium,Metal,Precious Metal
+Copper,copper,Metal,Industrial Metal
+Nickel,nickel,Metal,Industrial Metal
+Zinc,zinc,Metal,Industrial Metal
+Steel,steel,Metal,Industrial Metal
+Aluminium,aluminium,Metal,Industrial Metal
+
+Crude Oil,crude oil|oil|crude|wti,Energy,Oil
+Natural Gas,natural gas|gas,Energy,Gas
+Gasoline,gasoline,Energy,Refined Fuel
+Coal,coal,Energy,Coal
+Lumber,lumber,Energy,Construction Material
+
+Corn,corn,Soft Commodity,Grain
+Wheat,wheat,Soft Commodity,Grain
+Soybeans,soybean|soybeans|beans,Soft Commodity,Grain
+Sugar,sugar,Soft Commodity
+Coffee,coffee,Soft Commodity
+Cocoa,cocoa,Soft Commodity
+Cotton,cotton,Soft Commodity
+Eggs,egg|eggs,Soft Commodity
+Pork Belly,pork belly|pork bellies,Soft Commodity
+
+Cannabis,cannabis|weed|marijuana,Soft Commodity

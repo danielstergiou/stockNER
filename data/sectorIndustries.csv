@@ -22,7 +22,7 @@ Communication Services,Telecom Services,
 Consumer Cyclical,Apparel Manufacturing,
 Consumer Cyclical,Apparel Retail,
 Consumer Cyclical,Auto & Truck Dealerships,
-Consumer Cyclical,Auto Manufacturers,
+Consumer Cyclical,Auto Manufacturers, Electric Vehicle | EV | ev
 Consumer Cyclical,Auto Parts,
 Consumer Cyclical,Department Stores,
 Consumer Cyclical,Footwear & Accessories,
@@ -61,7 +61,7 @@ Energy,Oil & Gas Integrated,
 Energy,Oil & Gas Midstream,
 Energy,Oil & Gas Refining & Marketing,
 Energy,Thermal Coal,
-Energy,Uranium,
+Energy,Nuclear,
 Financial Services,Asset Management,
 Financial Services,Banks,Diversified
 Financial Services,Banks,Regional
@@ -88,7 +88,7 @@ Healthcare,Medical Care Facilities,
 Healthcare,Medical Devices,
 Healthcare,Medical Distribution,
 Healthcare,Medical Instruments & Supplies,
-Healthcare,Pharmaceutical Retailers,
+Healthcare,Pharmaceutical, Retailers
 Industrials,Aerospace & Defense,
 Industrials,Airlines,
 Industrials,Airports & Air Services,
@@ -127,6 +127,7 @@ Real Estate,REIT,Specialty
 Real Estate,Real Estate,Development
 Real Estate,Real Estate,Diversified
 Real Estate,Real Estate Services,
+Technology, Artificial Intelligence | AI,
 Technology,Communication Equipment,
 Technology,Computer Hardware,
 Technology,Consumer Electronics,

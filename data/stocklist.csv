@@ -724,7 +724,7 @@ CMC,Commercial Metals Company,Commercial Metals Company,Basic Materials,Steel,
 CMCO,Columbus McKinnon,Columbus McKinnon,Industrials,Farm & Heavy Construction Machinery,
 CMCSA,Comcast,Comcast,Communication Services,Telecom Services,
 CME,CME Group,CME Group,Financial Services,Financial Data & Stock Exchanges,
-CMG,Chipotle Mexican Grill,Chipotle Mexican Grill,Consumer Cyclical,Restaurants,
+CMG,Chipotle Mexican Grill,Chipotle,Consumer Cyclical,Restaurants,
 CMI,Cummins,Cummins,Industrials,Specialty Industrial Machinery,
 CMP,Compass Minerals International,Compass Minerals,Basic Materials,Other Industrial Metals & Mining,
 CMPO,CompoSecure,CompoSecure,Industrials,Metal Fabrication,
@@ -1221,7 +1221,7 @@ FICO,Fair Isaac,FICO,Technology,Software,Application
 FIGS,FIGS,FIGS,Consumer Cyclical,Apparel Manufacturing,
 FINN,First National of Nebraska,First National of Nebraska,Financial Services,Banks,Regional
 FINW,FinWise Bancorp,FinWise Bancorp,Financial Services,Banks,Regional
-FIS,Fidelity National Information Services,Fidelity National Information Services,Technology,Information Technology Services,
+FIS,Fidelity National Information Services,Fidelity,Technology,Information Technology Services,
 FISI,Financial Institutions,Financial Institutions,Financial Services,Banks,Regional
 FITB,Fifth Third Bancorp,Fifth Third Bank,Financial Services,Banks,Regional
 FIVE,Five Below,Five Below,Consumer Cyclical,Specialty Retail,
@@ -1488,7 +1488,7 @@ HIBB,Hibbett,Hibbett Sports,Consumer Cyclical,Apparel Retail,
 HIFS,Hingham Institution for Savings,Hingham Institution for Savings,Financial Services,Banks,Regional
 HIG,The Hartford Financial Services Group,The Hartford,Financial Services,Insurance,Property & Casualty
 HII,Huntington Ingalls Industries,Huntington Ingalls Industries,Industrials,Aerospace & Defense,
-HIMS,Hims & Hers Health,Hims &amp; Hers Health,Consumer Defensive,Household & Personal Products,
+HIMS,Hims & Hers Health,Hims And Hers,Consumer Defensive,Household & Personal Products,
 HIPO,Hippo Holdings,Hippo,Financial Services,Insurance,Specialty
 HIW,Highwoods Properties,Highwoods Properties,Real Estate,REIT,Office
 HL,Hecla Mining Company,Hecla Mining,Basic Materials,Other Precious Metals & Mining,
@@ -2212,7 +2212,6 @@ NCMI,National CineMedia,National CineMedia,Communication Services,Advertising Ag
 NCNO,nCino,nCino,Technology,Software,Application
 NCPL,Netcapital,Netcapital,Financial Services,Capital Markets,
 NCSM,NCS Multistage Holdings,NCS Multistage,Energy,Oil & Gas Equipment & Services,
-NDAQ,Nasdaq,Nasdaq,Financial Services,Financial Data & Stock Exchanges,
 NDLS,Noodles & Company,Noodles &amp; Company,Consumer Cyclical,Restaurants,
 NDSN,Nordson,Nordson,Industrials,Specialty Industrial Machinery,
 NEE,NextEra Energy,Nextera Energy,Utilities,Utilities,Regulated Electric
@@ -2231,7 +2230,7 @@ NEXT,NextDecade,NextDecade Corp,Energy,Oil & Gas E&P,
 NFBK,Northfield Bancorp Inc. (Staten Island NY),Northfield Bancorp,Financial Services,Banks,Regional
 NFE,New Fortress Energy,New Fortress Energy,Utilities,Utilities,Regulated Gas
 NFG,National Fuel Gas Company,National Fuel Gas,Energy,Oil & Gas Integrated,
-NFLX,Netflix,Netflix,Communication Services,Entertainment,
+NFLX,Netflix,Netflix,Communication Services,Entertainment, 
 NGL,NGL Energy Partners LP,NGL Energy Partners,Energy,Oil & Gas Midstream,
 NGNE,Neurogene,Neurogene,Healthcare,Biotechnology,
 NGVT,Ingevity,Ingevity,Basic Materials,Specialty Chemicals,
@@ -3539,7 +3538,7 @@ WAT,Waters,Waters Corporation,Healthcare,Diagnostics & Research,
 WATT,Energous,Energous,Technology,Scientific & Technical Instruments,
 WAY,Waystar Holding,Waystar,Healthcare,Health Information Services,
 WBA,Walgreens Boots Alliance,Walgreens Boots Alliance,Healthcare,Pharmaceutical Retailers,
-WBD,Warner Bros. Discovery,Warner Bros. Discovery,Communication Services,Entertainment,
+WBD,Warner Bros. Discovery,Warner Bros,Communication Services,Entertainment,
 WBS,Webster Financial,Webster Financial,Financial Services,Banks,Regional
 WBTN,WEBTOON Entertainment,WEBTOON Entertainment,Technology,Software,Application
 WCC,WESCO International,WESCO International,Industrials,Industrial Distribution,
@@ -3699,13 +3698,27 @@ ZYXI,Zynex,Zynex,Healthcare,Medical Distribution,
 ,Discord,,Media,Social Platform,
 ,Twitch,,Media,Social Platform,
 ,Reuters,,Media,,
-,Federal Reserve,Fed,Financial Services,Central Banks,
 ,European Central Bank,ECB,Financial Services,Central Bank,
 ,Securities and Exchange Commission,SEC,Financial Services,,
 ,Federal Housing Administration,FHA,,,
 ,Department of Housing & Urban Development,HUD,,,
 STNE,StoneCo,StoneCo,
-TSM,Taiwan Semiconductor Manufacturing,Taiwan Semicndctr Mnufctrng
+TSM,Taiwan Semiconductor Manufacturing,TSMC
 BABA,Alibaba Group,Alibaba
 FRC,First Republic Bank,
 ,World Financial Group,WFG,
+TD,Toronto-Dominion Bank,TD Bank,Financial Services,Banks - Diversified,
+TM,Toyota Motor,Toyota,Consumer Cyclical,Auto Manufacturers,
+BUD,Anheuser-Busch InBev,Anheuser-Busch,Consumer Defensive,Beverages - Brewers,
+ING,ING Group,ING Bank,Financial Services,Banks - Diversified,
+ZIM,ZIM Integrated Shipping,ZIM Shipping,Industrials,Marine Shipping,
+DNN,Denison Mines,Denison,Energy,Uranium,
+NNOX,Nano-X Imaging,Nano-X,Healthcare,Medical Devices,
+BBBY,Bed Bath & Beyond,Bed Bath Beyond,Consumer Cyclical,Specialty Retail,
+APE,AMC Entertainment Preferred,AMC Preferred,Communication Services,Entertainment,
+HLN,Haleon,Haleon PLC,Healthcare,Drug Manufacturers,
+REV,Revlon,Revlon Inc,Consumer Defensive,Household & Personal Products,
+ASML,ASML Holding NV,ASML Holding,Technology,Semiconductors,
+,OpenAI,OpenAI,Technology,Artificial Intelligence,
+,DeepSeek,Deep Seek,Technology,Artificial Intelligence,
+,Siemens Energy AG,Siemens Energy,Energy,Energy Equipment & Services,
